@@ -6,10 +6,10 @@ Olá me chamo Matheus Muniz 👋
 ##
 
 <a href="https://github.com/Munizzs/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Munizzs&show_icons=true&theme=transparent&card_width=150" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=Munizzs&show_icons=true&theme=transparent&card_width=100" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Munizzs&layout=compact&langs_count=8&card_width=150&show_icons=true&theme=transparent" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Munizzs&layout=compact&langs_count=8&card_width=150&show_icons=true&theme=transparent" />
 </a>
 
 ##
