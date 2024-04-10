@@ -12,7 +12,6 @@
 
 ##
 
-![](https://komarev.com/ghpvc/?username=your-github-Munizzs&color=green)
 <p align="center">
 <a href="https://github.com/Munizzs/github-readme-stats">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Munizzs&show_icons=true&theme=transparent&card_width=170" />
@@ -21,6 +20,8 @@
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Munizzs&layout=compact&langs_count=8&card_width=150&show_icons=true&theme=transparent" />
 </a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=your-github-Munizzs&color=green)
 
 &nbsp;
 &nbsp;
