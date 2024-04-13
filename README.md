@@ -1,6 +1,6 @@
 ### Hello!! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Programmer;I+am+Full+Stack+Developer)](https://programmerdatch.netlify.app/)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Programmer;I+am+Full+Stack+Developer)
 
 <p align="center">
   My name is Matheus Muniz, and I am a FullStack Developer. I am passionate about continuously learning new aspects of programming to enhance my skills and grow both personally and professionally. </p>
