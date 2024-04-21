@@ -10,21 +10,7 @@ src="https://media.discordapp.net/attachments/832392342614048769/123126748956485
 
 ##
 
-<p align="left">
-<a href="https://github.com/Munizzs/github-readme-stats">
-  <img height=170 align="center" width=400 src="https://github-readme-stats.vercel.app/api?username=Munizzs&show_icons=true&theme=transparent&card_width=130" />
-</a>
-<a href="https://github.com/Munizzs/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Munizzs&layout=compact&langs_count=8&card_width=150&show_icons=true&theme=transparent" />
-</a>
-</p>
-
-![](https://komarev.com/ghpvc/?username=your-github-Munizzs&color=blue)
-
-&nbsp;
-&nbsp;
-
-## Skills:
+ Skills:
 
 <div style="display: inline_block"><br>  
   <img align="center" alt="Java" height="40" width="40" src="https://github.com/Munizzs/Munizzs/assets/72587336/e7a208c3-14cc-4b35-9b58-0da64a6c0925">
@@ -36,6 +22,35 @@ src="https://media.discordapp.net/attachments/832392342614048769/123126748956485
   <img align="center" alt="SQL" height="40" width="40" src="https://github.com/Munizzs/Munizzs/assets/72587336/19cc4ff8-dcdd-4b36-991c-6a10c5233e9a">
   <img align="center" alt="Git" height="40" width="40" src="https://github.com/Munizzs/Munizzs/assets/72587336/7d7cd1e6-2d66-4034-b09b-bae6f57d27df">
 </div>
+
+
+
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+##
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+<p align="left">
+<a href="https://github.com/Munizzs/github-readme-stats">
+  <img height=170 align="center" width=400 src="https://github-readme-stats.vercel.app/api?username=Munizzs&show_icons=true&theme=transparent&card_width=130" />
+</a>
+<a href="https://github.com/Munizzs/convoychat">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Munizzs&layout=compact&langs_count=8&card_width=150&show_icons=true&theme=transparent" />
+</a>
+
+  ![](https://komarev.com/ghpvc/?username=your-github-Munizzs&color=blue)
+</p>
 
 &nbsp;
 &nbsp;
