@@ -1,4 +1,4 @@
-<img align="right" height="500"
+<img align="right" height="400"
 src="https://media.discordapp.net/attachments/832392342614048769/1231267489564852327/wallpapewallpaper4k_wallpaper_hdwallpaper_imgdesktopphone_wallpaper.jpg?ex=66365635&is=6623e135&hm=fc073ba731c1297354fb9291895906734d89465c6464a3e4431061905b417d82&=&format=webp&width=281&height=468"/>
 
 #### <h1 align="left">Hello!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
@@ -41,7 +41,7 @@ src="https://media.discordapp.net/attachments/832392342614048769/123126748956485
 &nbsp;
 
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/Munizzs/github-readme-stats">
   <img height=170 align="center" width=400 src="https://github-readme-stats.vercel.app/api?username=Munizzs&show_icons=true&theme=transparent&card_width=130" />
 </a>
