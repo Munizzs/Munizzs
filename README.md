@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=100&amp;theme=cobalt&section=header">
+
 <img align="right" height="400"
 src="https://media.discordapp.net/attachments/832392342614048769/1231267489564852327/wallpapewallpaper4k_wallpaper_hdwallpaper_imgdesktopphone_wallpaper.jpg?ex=66365635&is=6623e135&hm=fc073ba731c1297354fb9291895906734d89465c6464a3e4431061905b417d82&=&format=webp&width=281&height=468"/>
 
@@ -8,10 +10,7 @@ src="https://media.discordapp.net/attachments/832392342614048769/123126748956485
 <p align="center">
   My name is Matheus Muniz, and I am a FullStack Developer. I am passionate about continuously learning new aspects of programming to enhance my skills and grow both personally and professionally. </p>
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+
 
 ## Skills:
 
@@ -26,23 +25,7 @@ src="https://media.discordapp.net/attachments/832392342614048769/123126748956485
   <img align="center" alt="Git" height="40" width="40" src="https://github.com/Munizzs/Munizzs/assets/72587336/7d7cd1e6-2d66-4034-b09b-bae6f57d27df">
 </div>
 
-
-
-
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
-##
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
 <a href="https://github.com/Munizzs/github-readme-stats">
@@ -55,6 +38,7 @@ src="https://media.discordapp.net/attachments/832392342614048769/123126748956485
   ![](https://komarev.com/ghpvc/?username=your-github-Munizzs&color=blue)
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 &nbsp;
 &nbsp;
 
