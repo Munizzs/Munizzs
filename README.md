@@ -10,7 +10,7 @@ src="https://media.discordapp.net/attachments/832392342614048769/123126748956485
 <p align="center">
   My name is Matheus Muniz, and I am a FullStack Developer. I am passionate about continuously learning new aspects of programming to enhance my skills and grow both personally and professionally. </p>
 
-
+<br>
 
 ## Skills:
 
@@ -39,8 +39,8 @@ src="https://media.discordapp.net/attachments/832392342614048769/123126748956485
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-&nbsp;
-&nbsp;
+<br>
+<br>
 
 ## Contacts:
 
