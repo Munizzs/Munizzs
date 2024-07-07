@@ -12,7 +12,7 @@
 ## Skills:
 
 <div style="display: inline_block"><br>  
-  <img align="center" alt="Java" height="40" width="40" src="https://github.com/Munizzs/Munizzs/assets/72587336/d5d7055b-569a-43fd-b6a0-6787ee874b90">
+  <img align="center" alt="Java" height="40" width="40" src="https://github.com/Munizzs/Munizzs/assets/72587336/220d7d7f-3ff1-4bc5-a413-84506f6873f4">
   <img align="center" alt="C#" height="40" width="40" src="https://github.com/Munizzs/Munizzs/assets/72587336/84402a45-52cf-4d31-abde-7fe9623a112c">
   <img align="center" alt="Python" height="40" width="40" src="https://github.com/Munizzs/Munizzs/assets/72587336/87240367-9abf-4b7d-92ed-b652b5a705a5">
   <img align="center" alt="C#" height="40" width="40" src="https://github.com/Munizzs/Munizzs/assets/72587336/3124bf05-d161-48c3-a32d-09ad5591aa62">  
