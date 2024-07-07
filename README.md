@@ -1,8 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=100&amp;theme=cobalt&section=header">
 
-<img align="right" height="400"
-src="https://media.discordapp.net/attachments/832392342614048769/1231267489564852327/wallpapewallpaper4k_wallpaper_hdwallpaper_imgdesktopphone_wallpaper.jpg?ex=66365635&is=6623e135&hm=fc073ba731c1297354fb9291895906734d89465c6464a3e4431061905b417d82&=&format=webp&width=281&height=468"/>
-
 #### <h1 align="left">Hello!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Programmer;I+am+Full+Stack+Developer)
@@ -15,7 +12,7 @@ src="https://media.discordapp.net/attachments/832392342614048769/123126748956485
 ## Skills:
 
 <div style="display: inline_block"><br>  
-  <img align="center" alt="Java" height="40" width="40" src="https://github.com/Munizzs/Munizzs/assets/72587336/e7a208c3-14cc-4b35-9b58-0da64a6c0925">
+  <img align="center" alt="Java" height="40" width="40" src="https://github.com/Munizzs/Munizzs/assets/72587336/d5d7055b-569a-43fd-b6a0-6787ee874b90">
   <img align="center" alt="C#" height="40" width="40" src="https://github.com/Munizzs/Munizzs/assets/72587336/84402a45-52cf-4d31-abde-7fe9623a112c">
   <img align="center" alt="Python" height="40" width="40" src="https://github.com/Munizzs/Munizzs/assets/72587336/87240367-9abf-4b7d-92ed-b652b5a705a5">
   <img align="center" alt="C#" height="40" width="40" src="https://github.com/Munizzs/Munizzs/assets/72587336/3124bf05-d161-48c3-a32d-09ad5591aa62">  
